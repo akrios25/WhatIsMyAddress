@@ -20,7 +20,7 @@
         android:id="@+id/save_email_button"
         android:layout_width="163dp"
         android:layout_height="64dp"
-        android:text="replace me"/>
+        android:text="submit email"/>
     <Button
         android:id="@+id/recycler_intent_button"
         android:layout_width="163dp"
@@ -28,6 +28,6 @@
         tools:layout_editor_absoluteY="43dp"
         tools:layout_editor_absoluteX="195dp"
         android:layout_weight="0.04"
-        android:text="replace me"/>
+        android:text="view addresses"/>
 
 </LinearLayout>
