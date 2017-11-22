@@ -39,6 +39,7 @@ public class RecyclerActivity extends AppCompatActivity {
             @Override
             public void onClick(View view){
                 Intent intent = new Intent(RecyclerActivity.this, DisplayActivity.class);
+                intent.putExtra("intent value", "some string");
                 startActivity(intent);
 
             }
