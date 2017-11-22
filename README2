@@ -1,0 +1,12 @@
+
+I didn't feel like I got very far in the completion of this app. 
+I managed to create all the activities, classes and packages necessary and asked for. I had set up layouts 
+for quite a few of the activites as well, and the majority of the things asked for I was capable of implementing but not from scratch.
+I found myself very familiar with making layouts(though rudimentary), setting values, ids, referencing my views in 
+my classes and setting them up appropriately. Creating a recyclerview, though it took the most time, I was 
+also familiar with. Though it's implemenation is severely incomplete, it has the majority of all the paerts necessary for execution. My familiarity with Github was also substantial enough that is wasn't the aspect of this test that I was worried about.
+Parts I had difficulty with include Shared preferences, accessing and passing this information through activities, setting 
+new values for things pre-made (edittext to a null string) and how to properly adjust the recyclerview to waht was asked for.
+Intent extras and the like.
+Overall, I came to understand I have a very basic understanding of Android studio, but there is still a lot for me to understand and e
+execute. As much thorough feedback is welcome and needed.
